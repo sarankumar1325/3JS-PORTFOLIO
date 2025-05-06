@@ -1,0 +1,57 @@
+SARAN KUMAR. S
+sarankumar131313@gmail.com | 91+ 9361670741 | swsarancodes.netlify.app | LinkedIn: SARAN KUMAR.S
+Professional Summary
+Generative AI & Machine Learning Engineer with a solid background in developing, deploying, and optimizing models.
+Experienced in data preparation, algorithm development, and scalable solution design. Proficient in leveraging popular
+programming tools and frameworks to drive performance improvements and ensure robust deployment of AI solutions.
+Education
+KPR Institute of Engineering and Technology Coimbatore B.E. Computer Science and Engineering (AIML)
+CGPA: 8.42 (Upto 5th Sem)
+G. Ramasamy Naidu Matriculation Hr. Sec. School Coimbatore Higher Secondary Education (HSE)
+Percentage: 92% (2022)
+Experience
+Codsoft Solutions (ML Engineer) Jun 2024 – Jul 2024
+• Worked on various machine learning applications, including movie genre classification, credit card fraud detection,
+customer churn prediction, and spam SMS filtering.
+• Optimized data preprocessing workflows to improve efficiency in model training and deployment.
+Learn and Build (ML Engineer) Jun 2023 – Jul 2023
+• Developed machine learning models for agriculture-related use cases, including soil prediction and crop recommendation.
+• Applied network science techniques to enhance predictive accuracy and decision-making.
+Projects
+WeatherMate: AI-Powered Weather Assistant [React, TypeScript, Lyzr, Gemini]
+• Engineered an AI-driven weather assistant to provide real-time weather insights and planning assistance.
+• Integrated multiple APIs(Lyzr Agent , Gemini, OpenWeather) to enhance forecasting accuracy and user experience.
+FIEZZO: AI-Powered Helpdesk for Fiestaa ’25 [React, Vite, Gemini Flash 2.0, RAG]
+• Implemented AI-powered retrieval techniques to enhance event information accessibility.
+• Designed an optimized user interface for seamless interaction and improved performance.
+SecondBrain: AI-Powered Research Platform [Lyzr AI, Gemini, Perplexity, TypeScript]
+• Built an AI-powered research system with specialized agents that mimic human learning.
+• Integrated real-time web data to refine insights through multi-agent collaboration.
+FocusFlow: AI-Powered Flashcards for Smarter Learning [Lyzr AI, Gemini, TypeScript]
+• Constructed an AI-driven study assistant using spaced repetition and Pomodoro techniques.
+• Added analytics, team collaboration, and a content library for personalized learning.
+Technical Skills
+• Languages: Python, Java, JavaScript, SQL
+• Frameworks: TensorFlow, PyTorch, Streamlit, Hugging
+Face, React
+• Tools: Git,GitHub, VS Code, CodeLM, LangChain, Cursor
+• LLMs & APIs: OpenAI, Gemini, Mistral, Groq, Lyzr,
+Deepseek, Claude, Kimi
+• Databases: PostgreSQL, MongoDB
+• Methodologies: Prompt Engineering, Fine-Tuning, RAG
+Volunteering
+• IEEE Region 10 WIE Social Innovation Camp 2023, Student Volunteer: Led STEM workshops for preuniversity students.
+• IEEE Day 2024, Event Organizer & Volunteer: Organized 10+ events and leadership talks, contributing to the
+Best Society 2024-25 award.
+Certifications
+• AWS Certified Cloud Practitioner
+• GitHub Certified Foundations
+• IBM Machine Learning Professional
+• Nasscom Acquiring Data
+• Lyzr Certified Agent Builder
+• NPTEL: NLP & Safe AI
+Awards
+• 1st Place (University), IEEE Xtreme Codeathon
+• 1st Place, Paper Presentation, Technovista, Sri Eshwar College
+• Top 25, Intel OneAPI Gen AI Hackathon, 2024, KPRIET
+• Co-authored “Transforming Data Visualization with AI and ML,” IGI Global

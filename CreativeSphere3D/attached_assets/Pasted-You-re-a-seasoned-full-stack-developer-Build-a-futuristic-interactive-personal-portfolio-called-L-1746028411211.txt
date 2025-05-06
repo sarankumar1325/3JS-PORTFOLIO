@@ -1,0 +1,110 @@
+You're a seasoned full-stack developer. Build a futuristic, interactive personal portfolio called "Lovable Portfolio" using Next.js and Tailwind CSS, blending elegant UI design, dynamic 3D elements, and advanced motion effects. The goal is to create an unforgettable user experience with sleek animations, intuitive navigation, and interactive visual feedback throughout the site.
+
+Key Requirements:
+
+🔧 Tech Stack & Tools
+Framework: Next.js (App Router preferred)
+
+Styling: Tailwind CSS + CSS Modules (for scoped custom styles)
+
+Component Library: Aternity UI or Ant Design
+
+3D Library: Three.js (via @react-three/fiber and @react-three/drei)
+
+🌟 Visual Effects (via React Bits & Custom Animations)
+Cursor & Backgrounds:
+
+Splash Cursor
+
+Aurora Background
+
+Follow Cursor / Blob Cursor
+
+Pixel Trail / Click Spark
+
+Text Animation Utilities:
+
+Split Text / Scroll Reveal / Scroll Float
+
+Gradient Text / Shiny Text / Glitch Text
+
+Circular Text / Decrypted Text / ASCII Text
+
+Variable Proximity / True Focus / Text Pressure
+
+Falling Text / Blur Text / Count Up
+
+Site-wide Visual Content Effects:
+
+Fade Content / Magnet Lines / Magnet Effect
+
+Metallic Paint / Noise / Ribbons / Meta Balls
+
+Crosshair Pointer / Star Border / Image Trail
+
+🧩 Advanced UI Components
+Animated List / Infinite Scroll
+
+Tilted Cards / Spotlight Cards / Gooey Navigation
+
+Pixel Cards / Carousel / Circular Gallery / Rolling Gallery
+
+Masonry Grid Layout
+
+Elastic Slider / Glass Icons / Counter
+
+Stepper Navigation with Scroll Snap
+
+🎨 Dynamic Background Layers
+Aurora
+
+Lightning
+
+Hyperspeed
+
+Liquid Chrome
+
+Iridescence
+
+Particles (controlled via pointer)
+
+Waves (React Spring or GSAP driven)
+
+🏗️ Site Architecture & Sections
+Hero Section:
+
+3D Card Effect with Three.js
+
+Animated Marquee / Intro Text Reveal
+
+Particle Overlay or Blob Animation
+
+Feature Projects:
+
+Individual Sections with Scroll Reveal, Magnetic Interactions, and Glitch/ASCII Text
+
+Custom Three.js effects (e.g., hover distortion)
+
+Gallery:
+
+Flying Posters / Rolling Gallery
+
+Interactive image trails with cursor tracking
+
+Testimonials:
+
+Spotlight Cards inside Animated Modal
+
+Auto-play animations on scroll
+
+Blog / Updates Feed:
+
+Masonry layout with filter & search
+
+Elastic interactions and infinite scroll
+
+Contact / Follow Section:
+
+3D Rotating Sphere with Contact Icons
+
+Animated Form with Stepper transitions and subtle spark/magnetic effects

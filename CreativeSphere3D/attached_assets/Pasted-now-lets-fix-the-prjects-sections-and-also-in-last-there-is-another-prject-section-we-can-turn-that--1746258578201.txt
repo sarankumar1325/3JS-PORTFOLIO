@@ -1,0 +1,48 @@
+now lets fix the prjects sections and also in last there is another prject section we can turn that into first
+1.showcases of project that is videos , followed by
+
+My acheivements and Certifications
+
+first the project sections lets add the projects first
+1.EMAIL_SPAM_CLASSIFIER- https://github.com/sarankumar1325/TRS_EMAIL_SPAM_CLASSIFIER
+LSTM-based Classifier: Utilizes Long Short-Term Memory networks for sequential pattern recognition in email content. SVM Classifier: Implements Support Vector Machines for efficient email spam detection based on distinct feature mapping. Repository includes LSTM and SVM models with documentation for robust email spam classification.
+
+2.AUTISM-DETECTION-WITH-INTEL-ONEAPI-https://github.com/sarankumar1325/AUTISM-DETECTION-WITH-INTEL-ONEAPI
+About
+This project builds a machine learning model to detect autism based on text data, using a dataset titled autism_data.csv. The model is trained and optimized using Intel OneAPI extension for scikit-learn, which increases processing speed by 1.73x.
+
+3.ONCONET - https://github.com/sarankumar1325/ONCONET
+Deep learning models for accurate lung cancer detection using hybrid neural network architectures. This repository includes the implementation of convolutional neural networks (CNNs) for lung cancer prediction, leveraging advanced machine learning techniques to enhance diagnosis accuracy and clinical efficiency.
+
+4.WEATHERMATE AI - https://github.com/sarankumar1325/WEATHERMATE-AI
+LIVE - https://weathermateai.netlify.app/
+
+WeatherMate is an intelligent weather agent built with the Lyzr agent framework, leveraging the power of the Gemini API and OpenWeather API. It provides personalized recommendations based on current weather conditions, helping you make informed decisions about your day.
+
+5.FIEZZO
+LIVE - https://kpriet.ac.in/fiezzo
+
+Implemented AI-powered retrieval techniques to enhance event information accessibility.
+• Designed an optimized user interface for seamless interaction and improved performance.
+
+WealthSense-AI
+This is a project build to analyse and give suggestions on buying stocks with a help of AI Agents
+7.TAXBUDDY AI
+https://github.com/sarankumar1325/TaxBuddy-Tax-Assistent.git
+TaxBuddy AI is an intelligent tax assistant designed to simplify tax filing for individuals and businesses in India. By leveraging AI, it automates complex calculations, ensures compliance with Indian tax laws, and provides personalized recommendations to save you money. With a user-friendly interface, secure document management, and error-free computations, TaxBuddy AI is your go-to solution for a hassle-free tax filing experience.
+
+THINKBLOOM
+LIVE - https://thinkbloom.lovable.app/
+https://github.com/sarankumar1325/THINKBLOOM
+ThinkBloom is an innovative, AI-powered notes application designed to help users organize, study, and maximize their productivity. With advanced AI features, ThinkBloom transforms the way you take, manage, and interact with your notes, making it an indispensable tool for students, professionals, and lifelong learners. Built using TypeScript and CSS, the application delivers a seamless, efficient, and responsive user experience.
+
+JOB-INSIGHT
+LIVE - https://lnkd.in/g-F3eWRW
+https://github.com/sarankumar1325/JOB-INSIGHT.git
+
+AI-driven web application that provides job insights, career advice, and tailored resume generation. Powered by Lyzr AI, the platform leverages the latest in generative AI to help candidates analyze job descriptions, ask career-related questions in a chat interface, and automatically draft ATS-friendly resumes.
+
+ROASTMYCV
+LIVE - http://resumeroaster.lovable.app
+RoastMyCV is a smart, AI-powered application designed to analyze, critique, and enhance resumes or CVs in real time. Built using TypeScript and CSS, this platform offers users detailed feedback on formatting, content, and relevance to industry standards. Whether you’re a student, job seeker, or seasoned professional, RoastMyCV helps you craft a resume that stands out, ensuring it aligns with hiring trends and best practices.
+REMOVE THE CURRENT 3 PROJECTS AND ALOS USE IMAGES WHICH ARE RELEVANT TO PROJECT TITLE FROM UNSPLASH
